@@ -18,6 +18,9 @@ var love = [
     'Do you need anything darling?',
     'WHERE IS ANDY FILMORE?!',
     'You are SO KIND to people!',
+    'You make the best chili!',
+    'Boy howdy I love ya',
+    'Jeeze Casey you are just so clever.'
 
 ]
 
