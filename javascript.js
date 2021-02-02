@@ -3,7 +3,7 @@ var love = [
     'I think you\'re amazing!',
     'I love Casey so much!',
     'If I had to choose to be a millionaire or be with Casey I\'d be a millionaire and then also be with Casey.',
-    'Shall I compare thee to a summer day? (nah, you\'re more rad than a summer day.',
+    'Shall I compare thee to a summer day? (nah, you\'re more rad than a summer day.)',
     'You have the sweetest buns.',
     'You have the most lovely kisses!',
     'I wish I was with you right now giving you a smooch.',
