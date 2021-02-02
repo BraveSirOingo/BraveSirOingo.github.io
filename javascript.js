@@ -20,7 +20,11 @@ var love = [
     'You are SO KIND to people!',
     'You make the best chili!',
     'Boy howdy I love ya',
-    'Jeeze Casey you are just so clever.'
+    'Jeeze Casey you are just so clever.',
+    'It\'s always been you',
+    'I can\'t believe how lucky we are!',
+    'Hey Casey, you\'re my best friend.',
+    'I have fun just being beside you doing nothing.'
 
 ]
 
