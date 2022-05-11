@@ -49,7 +49,7 @@ var love = [
     'If I wasn\'t with you I wouldn\'t be with anyone.',
     'We spent so long searching, I\'m glad we finally found US.',
     'You are so BEAUTIFUL!',
-    'You shine like the moon. You know, like you reflect the sun but sometimes you\'re a little dark.,
+    'You shine like the moon. You know, like you reflect the sun but sometimes you\'re a little dark.',
     '"I dare you to kiss me"',
     '"I double dog dare you"',
     'I\'m more addicted to you than a 14 year old is to Juul',
