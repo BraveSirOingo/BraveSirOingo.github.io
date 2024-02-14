@@ -91,6 +91,7 @@ $(document).ready(function () {
             'Good morning Casey Bear and Ozzy Bear, it\'s 6am and you\'re not late for anything',
             'Meow - Oswald',
             'And I say to myself... What a wonderful BEARRR',
+            'Respect the booty!',
         ];
 
         var quote = quotes[Math.floor(Math.random() * quotes.length)];
