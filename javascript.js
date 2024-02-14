@@ -87,7 +87,9 @@ $(document).ready(function () {
             'I love seeing you happy',
             'Booty Bear, booty booty booty Beeaarr',
             'Shake it Casey shake it shake it!',
-            'Moon landing!'
+            'Moon landing!',
+            'Good morning Casey Bear and Ozzy Bear, it\'s 6am and you\'re not late for anything',
+            'Meow - Oswald'
         ];
 
         var quote = quotes[Math.floor(Math.random() * quotes.length)];
