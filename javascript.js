@@ -82,7 +82,7 @@ $(document).ready(function () {
             'Casey Bear, Casey Casey Casey... BEAAARRR!',
             'I love sitting on the window next to you while you work - Oswald',
             'Is it time for bikkies? - Oswald',
-            'Cat milk please... I mean I love you! - Oswald'.
+            'Cat milk please... I mean I love you! - Oswald'
         ];
 
         var quote = quotes[Math.floor(Math.random() * quotes.length)];
