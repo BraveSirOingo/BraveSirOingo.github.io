@@ -75,7 +75,11 @@ $(document).ready(function () {
             'Casey Casey Casey can\'t you see, I think you\'re cute and you can\'t stop me.',
             'It\'s about time you gave in to my badgering and fell in love with me.',
             'WHY ARE YOU SO DAMN ADORABLE?!',
-            'SPACE CASE!'
+            'SPACE CASE!',
+            'Oswald is thinking of you.',
+            'Ozzy and I love you baby bear!',
+            'YOU\'RE MY BABY BEAR!',
+            'Casey Bear, Casey Casey Casey... BEAAARRR!'
         ];
 
         var quote = quotes[Math.floor(Math.random() * quotes.length)];
