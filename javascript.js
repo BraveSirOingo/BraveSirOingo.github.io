@@ -89,7 +89,8 @@ $(document).ready(function () {
             'Shake it Casey shake it shake it!',
             'Moon landing!',
             'Good morning Casey Bear and Ozzy Bear, it\'s 6am and you\'re not late for anything',
-            'Meow - Oswald'
+            'Meow - Oswald',
+            'And I say to myself... What a wonderful BEARRR',
         ];
 
         var quote = quotes[Math.floor(Math.random() * quotes.length)];
